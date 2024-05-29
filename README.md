@@ -37,5 +37,6 @@ I thank Apple Developer Academy for teaching me and improving my softskills, sta
 <h2 align="left">Contacts</h2>
 If you want to collaborate with me or have my help, I will be more than happy to get involved with you, please feel free to contact me here : <br>
 <br>
-- mattia.marranzino97@gmail.com
+- mattia.marranzino97@gmail.com <br>
+- Discord ID : mattia0494 
 
