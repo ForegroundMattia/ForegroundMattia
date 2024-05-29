@@ -27,15 +27,15 @@ I'm a front-end swift developer, and I also know SQL very well. <br> I have know
 </div>
 
 <h2 align="left">About Me </h2>
-I am a passionate developer driven by curiosity to learn new frameworks, and I always want to interface with different points of view and share my own, to grow together.<br>
-I am a Theater technician specializing in lighting, video and audio in particular I am very familiar with QLab.
-I am a Community manager so I am familiar with Discord.js because I used to create many bots for the community.
+I am a passionate developer driven by curiosity to learn new frameworks, and I always want to know other points of view and share my own to grow together.<br> 
+I am a theater technician specialized in lighting, video and audio, in particular I am very familiar with QLab.
+I have high competence in Discord.js, because I'm a community manager, I still create many utility bots for those.
 <br> 
 <br>
-I thank Apple developer academy for teaching me and improving many softskills. From personal ones like time management, problem solving, analytical and critical thinking, to relational ones like public speaking and relating with teammates.
+I thank Apple Developer Academy for teaching me and improving my softskills, starting from personal ones (like time management, problem solving, analytical and critical thinking) to finish in relational ones (like public speaking skills and the ability to relate and manage teammates).
 
 <h2 align="left">Contacts</h2>
-I am open to any collaboration, if you want to contact me or have a chat you can find me here : <br>
+If you want to collaborate with me or have my help, I will be more than happy to get involved with you, please feel free to contact me here : <br>
 <br>
 - mattia.marranzino97@gmail.com
 
