@@ -2,7 +2,7 @@
 
 
 <p align="left">Hi, my name is Mattia Marranzino I am an iOS and Game Developer.<br>
-I'm a front-end swift developer, and I also know SQL very well. <br> I have knowledge in Game Developer, Modeling and Rigging.
+I'm a front-end swift developer, and I also know SQL very well. <br> I have knowledge in Game Developing, Modeling and Rigging.
 
 
 <h2 align="left">Code Skills And Tools </h2>
